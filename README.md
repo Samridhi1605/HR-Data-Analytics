@@ -26,6 +26,7 @@ This project visualizes and analyzes employee attendance data using **Power BI**
 - Tracks daily and 7-day rolling attendance trends
 - Highlights attendance by department
 - Analyzes weekly distribution of presence
+  ()
   
 ### Tableau Dashboard
 
@@ -33,7 +34,7 @@ This project visualizes and analyzes employee attendance data using **Power BI**
 - Daily trend line of present employees
 - Department-wise breakdown
 - Histogram of daily attendance frequency
-
+ (ChatGPT Image Apr 13, 2025, 10_51_51 PM.png)
 ## 🧠 Insights
 
 - Most employees were present or on weekly off (P, WO).
